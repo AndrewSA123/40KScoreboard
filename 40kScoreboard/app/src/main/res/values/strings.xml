@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">40k Scoreboard</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Scores</string>
+    <string name="IPFragment">Change Settings</string>
+    <string name="IPButton">Save</string>
+    <string name="IpPlaceHolder">IP Address</string>
+    <string name="SettingsLabel">Settings</string>
+
+    <!-- Front Page Strings -->
+    <string name="AddCP">+ CP</string>
+    <string name="SubtractCP">- CP</string>
+    <string name="AddVP">+ VP</string>
+    <string name="SubtractVP">- VP</string>
+    <string name="T1">Team 1</string>
+    <string name="T2">Team 2</string>
+    <string name="CP">CP</string>
+    <string name="VP">VP</string>
+    <string name="DefaultCP">CP:</string>
+    <string name="DefaultVP">VP:</string>
+    <string name="CP_VP_Change">CP/VP Change</string>
+    <string name="OnlineToggle">Device/App</string>
+    <string name="Online">Device</string>
+    <string name="Offline">App</string>
+    <string name="Reset">Reset</string>
+
+</resources>

@@ -1,0 +1,15 @@
+/40kScoreboard*.iml
+/40kScoreboard.gradle
+/40kScoreboard/local.properties
+/40kScoreboard/.idea/caches
+/40kScoreboard/.idea/libraries
+/40kScoreboard/.idea/modules.xml
+/40kScoreboard/.idea/workspace.xml
+/40kScoreboard/.idea/navEditor.xml
+/40kScoreboard/.idea/assetWizardSettings.xml
+/40kScoreboard.DS_Store
+/40kScoreboardbuild
+/40kScoreboard/captures
+/40kScoreboard.externalNativeBuild
+/40kScoreboard.cxx
+/40kScoreboardlocal.properties

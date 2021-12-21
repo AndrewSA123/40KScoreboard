@@ -1,0 +1,3 @@
+Personal Project, using arduino wifi and Android studio to create an app to keep track of in-game and potentially all time scores in a game of Warhammer 40K
+
+The arduino code sets up an api layer and controls an lcd screen to display and update team names and score values while the Android studio gives you a mobile way of updating the scores without calling an api in the browser
